@@ -1,1 +1,1 @@
-# testproject2
+Learning and practicing Git!
